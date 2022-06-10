@@ -402,7 +402,7 @@
   "resolved" "https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz"
   "version" "7.0.0"
 
-"libphonenumber-js@^1.10.6", "libphonenumber-js@^1.9.44":
+"libphonenumber-js@^1.9.44":
   "integrity" "sha512-CIjT100/SmntsUjsLVs2t3ufeN4KdNXUxhD07tH153pdbaCWuAjv0jK/gPuywR3IImB/U/MQM+x9RfhMs5XZiA=="
   "resolved" "https://registry.npmjs.org/libphonenumber-js/-/libphonenumber-js-1.10.6.tgz"
   "version" "1.10.6"

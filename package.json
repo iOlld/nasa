@@ -8,7 +8,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "libphonenumber-js": "^1.10.6",
     "maz-ui": "^3.0.0",
     "vue": "^3.2.25",
     "vue-router": "^4.0.16",
