@@ -1,7 +1,7 @@
-import MazBtn from 'maz-ui/components/MazBtn'
+import Button from 'primevue/button';
 
 export default {
 	install (app) {
-		app.component('MazBtn', MazBtn)
+		app.component('PButton', Button)
 	},
 }
